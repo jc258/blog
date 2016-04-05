@@ -36,11 +36,11 @@ exclude: ["transfer.sh", README.md]
 #fb_appid:           337414769782635
 
 # Setup
-title:               Vitaly Repin
+title:               Vincent Huang
 tagline:             Sapere aude!
-url:                 "http://vrepin.org"
+url:                 "http://www.vincenthuang.com"
 paginate:            4
-baseurl:             "/vr"
+baseurl:             "/vc"
 
 # Assets
 #
@@ -51,14 +51,14 @@ sass:
 
 # About/contact
 author:
-  name:              Vitaly Repin
-  url:               https://twitter.com/vitalyrepin
-  email:             vitaly_repin@fsfe.org
+  name:              Vincent Huang
+  url:               https://twitter.com/balaixianren
+  email:             balaixianren@sina.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/vitalyrepin/vrepinblog
+  repo:              https://github.com/jc258/blog
 
 # Google sitemap generation
 gems:
@@ -75,10 +75,10 @@ kramdown:
   auto_ids: true
 
 pages_list:
-  About: '/vr/about/'
-  Hobby projects: '/vr/hobbies/'
-  Tags: '/vr/tags/'
-  Feed: '/vr/atom.xml'
+  About: '/vc/about/'
+  Hobby projects: '/vc/hobbies/'
+  Tags: '/vc/tags/'
+  Feed: '/vc/atom.xml'
 
 picture:
   source: "assets/imgs/_fullsize"
