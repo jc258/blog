@@ -38,9 +38,9 @@ exclude: ["transfer.sh", README.md]
 # Setup
 title:               Vitaly Repin
 tagline:             Sapere aude!
-url:                 "http://vincenthuang.cn"
+url:                 "http://vrepin.org"
 paginate:            4
-baseurl:             "/vc"
+baseurl:             "/vr"
 
 # Assets
 #
@@ -52,13 +52,13 @@ sass:
 # About/contact
 author:
   name:              Vitaly Repin
-  url:               https://twitter.com/balaixianren
-  email:             balaixianren@sina.com
+  url:               https://twitter.com/vitalyrepin
+  email:             vitaly_repin@fsfe.org
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/jc258/blog
+  repo:              https://github.com/vitalyrepin/vrepinblog
 
 # Google sitemap generation
 gems:
@@ -75,10 +75,10 @@ kramdown:
   auto_ids: true
 
 pages_list:
-  About: '/vc/about/'
-  Hobby projects: '/vc/hobbies/'
-  Tags: '/vc/tags/'
-  Feed: '/vc/atom.xml'
+  About: '/vr/about/'
+  Hobby projects: '/vr/hobbies/'
+  Tags: '/vr/tags/'
+  Feed: '/vr/atom.xml'
 
 picture:
   source: "assets/imgs/_fullsize"
